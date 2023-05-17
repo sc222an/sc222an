@@ -1,5 +1,7 @@
-![](https://raw.githubusercontent.com/sc222an/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/sc222an/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+
+
+<img src="https://github.com/sc222an/stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/sc222an/stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 
 <!--
 **sc222an/sc222an** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
